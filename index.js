@@ -40,6 +40,7 @@ Mutation:{
         }
     },
     createUser(_,args){
+        console.log("args", args)
 
     }
    
